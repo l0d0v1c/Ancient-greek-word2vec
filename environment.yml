@@ -1,0 +1,11 @@
+name: voila-ancient
+channels:
+- conda-forge
+dependencies:
+- matplotlib-base
+- pandas
+- ipywidgets
+- jupyterlab>=3.1
+- voila>=0.2.11
+- gensim
+
