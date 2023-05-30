@@ -7,4 +7,4 @@ The vocabulary was lemmatized (534258 words + 96443 words not lemmatizable). 10,
 # Online demonstration
 
  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l0d0v1c/Ancient-greek-word2vec/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l0d0v1c/Ancient-greek-word2vec/HEAD?labpath=voila%2Frender%2Findex.ipynb)
