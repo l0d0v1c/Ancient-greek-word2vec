@@ -12,3 +12,10 @@ The vocabulary was lemmatized (534258 words + 96443 words not lemmatizable). 10,
 
 ![aner](docs/aner.png)
 
+# References
+
+Řehůřek, Radim, et Petr Sojka. « Software Framework for Topic Modelling with Large Corpora ». In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, 45‑50. Valletta, Malta: ELRA, 2010.
+
+https://opengreekandlatin.org/
+
+
