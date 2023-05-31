@@ -6,8 +6,11 @@ The vocabulary was lemmatized (534258 words + 96443 words not lemmatizable). 10,
 
 # Online demonstration
 
+## Running a binder instance
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l0d0v1c/Ancient-greek-word2vec/HEAD?urlpath=voila%2Frender%2Findex.ipynb)
 
+## Graph Output sample
 [Display a sample graph](https://l0d0v1c.github.io/Ancient-greek-word2vec/ponos.html) : This page is an example of graph output. Nodes are double-clickable to query the dictionary.
 
 ![aner](docs/aner.png)
