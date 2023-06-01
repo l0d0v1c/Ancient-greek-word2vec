@@ -3,6 +3,7 @@
 This is a latent space for ancient greek trained on 149883 sentences from [First1K project]( https://chs.harvard.edu/the-free-first-thousand-years-of-greek-qa-with-leonard-muellner/).
 
 The vocabulary was lemmatized (534258 words + 96443 words not lemmatizable). 10,25,50,75,100 and 300 dimensions latent space are provided (gr...vec). As a comparison another model is proposed (Nov22_RW) based on this [repo](https://github.com/ryderwishart/ancient-greek-word2vec).
+Models ending by mc3 only take into account words that are present more the 3 times. 
 
 # Online demonstration
 
