@@ -19,6 +19,22 @@ A precomputed app for 300 dimensions latent space and 10 closest words baed on t
 
 ![aner](docs/aner.png)
 
+# Installation
+
+## Dev
+clone this repo and install environment.yml
+
+## Production
+
+You can build the docker container:
+
+```
+docker build -t yourtag/latentgreek .
+docker run -p 8888:8888 yourtag/latentgreek
+```
+
+This runs a server with the GUI.
+
 # References
 
 Řehůřek, Radim, et Petr Sojka. « Software Framework for Topic Modelling with Large Corpora ». In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, 45‑50. Valletta, Malta: ELRA, 2010.
