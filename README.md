@@ -13,6 +13,10 @@ The vocabulary was lemmatized (534258 words + 96443 words not lemmatizable). 10,
 ## Graph Output sample
 [Display a sample graph](https://l0d0v1c.github.io/Ancient-greek-word2vec/ponos.html) : This page is an example of graph output. Nodes are double-clickable to query the dictionary.
 
+## Precomputed standalone
+A precomputed app for 300 dimensions latent space and 10 closest words baed on the 20000 most frequent greek words is available but only allow to display the graph, not distances calculations.
+[access to the app](https://l0d0v1c.github.io/Ancient-greek-word2vec/graph.html) 
+
 ![aner](docs/aner.png)
 
 # References
