@@ -35,6 +35,10 @@ You can build the docker container:
 
 ```
 docker build -t yourtag/latentgreek .
+or
+docker buildx build --platform linux/amd64,linux/arm64 -t yourtag/latentgreek --push .
+for apple silicon compatible
+
 docker run -p 8888:8888 yourtag/latentgreek
 ```
 
