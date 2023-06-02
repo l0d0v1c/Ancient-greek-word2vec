@@ -20,6 +20,10 @@ A precomputed app for 300 dimensions latent space and 10 closest words baed on t
 
 ![aner](docs/aner.png)
 
+## Sense addition
+
+The classical example king+woman-man=queen doesn't work properly with Fist1Kgreek dataset dataset maybe because queen (βασίλισσα) appears only 4 times. It works with Ryder Wishart's dataset (automatically selected on example)
+
 # Installation
 
 ## Dev
@@ -40,7 +44,7 @@ This runs a server with the GUI.
 
 Řehůřek, Radim, et Petr Sojka. « Software Framework for Topic Modelling with Large Corpora ». In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, 45‑50. Valletta, Malta: ELRA, 2010.
 
-Crane, Gregory R., Leonard Muellner, Bruce Robertson, Alison Babeu, Lisa Cerrato, Thomas Koentges, Rhea Lesage, Lucie Stylianopoulos, et James Tauber. « First1kGreek ». Zenodo, 22 août 2022. https://doi.org/10.5281/ZENODO.7015940
+Muellner, Leonard. "The Free First Thousand Years of Greek". Digital Classical Philology: Ancient Greek and Latin in the Digital Revolution, edited by Monica Berti, Berlin, Boston: De Gruyter Saur, 2019, pp. 7-18 https://doi.org/10.1515/9783110599572-002
 
 
 https://github.com/ryderwishart/ancient-greek-word2vec
